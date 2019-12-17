@@ -1,3 +1,5 @@
+package blackHorse;
+
 public class shazhu {
 /*
 这是java 的注释方法
