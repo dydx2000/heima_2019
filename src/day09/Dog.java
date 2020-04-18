@@ -8,11 +8,14 @@ public abstract class Dog extends Animal {
     }
 
     @Override
-    public void eat(){
+    public void eat() {
         System.out.println("狗啃骨头!!");
-    };
+    }
+
+    ;
+
     public abstract void sleep();
 
-    };
+};
 
 

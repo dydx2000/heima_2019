@@ -4,7 +4,7 @@ public class Demo01 {
     public static void main(String[] args) {
         Animal animal = new Cat();
         animal.eat();
-        Cat cat= (Cat) animal;
+        Cat cat = (Cat) animal;
         cat.swim();
 
         System.out.println("=============");

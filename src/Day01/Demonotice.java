@@ -13,6 +13,7 @@ public class Demonotice {
 //        short result = a+b;
         short result =5 + 8;
         System.out.println(result);
+        System.out.println("I am yxy!");
 //        short result2=  5 + a +8; //常量优化做不了,
     }
 }
