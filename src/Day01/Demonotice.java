@@ -1,4 +1,4 @@
-package hello;
+package Day01;
 
 public class Demonotice {
     public static void main(String[] args) {

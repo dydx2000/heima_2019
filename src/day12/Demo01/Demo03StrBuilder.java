@@ -2,7 +2,7 @@ package day12.Demo01;
 
 public class Demo03StrBuilder {
     public static void main(String[] args) {
-        String str = "hello";
+        String str = "Day01";
         StringBuilder bu =new StringBuilder(str);
         bu.append(" World");
         System.out.println(bu);

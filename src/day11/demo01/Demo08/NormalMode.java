@@ -50,6 +50,6 @@ public class NormalMode {
 
 
     public void sayHello() {
-        System.out.println("hello");
+        System.out.println("Day01");
     }
 }

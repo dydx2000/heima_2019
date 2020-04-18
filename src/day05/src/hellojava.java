@@ -1,6 +1,6 @@
 public class hellojava {
     public static void main(String[] args) {
-        System.out.println("hello java");
+        System.out.println("Day01 java");
         for (int i = 0; i < 5; i++) {
             System.out.print("*");
 
